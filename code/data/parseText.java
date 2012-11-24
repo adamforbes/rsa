@@ -98,7 +98,7 @@ public class parseText {
                                splitLine[10] + "," + splitLine[12];   
         }
         else {
-            retString = "na,na,na,na,na,na";
+            retString = "0,0,0,0,0,0";
         }     
         return retString;
     }
